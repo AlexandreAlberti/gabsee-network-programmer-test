@@ -1,0 +1,14 @@
+16:30 start test read
+	Download Unity 2020.3.21f1
+	Forked repo
+
+17:10 Installation ended
+17:30 Installation of 2020.3.36f Ended. Previous one was not starting project.
+18:00 Existing code read and kind of understood main things.
+18:10 Will implement a rotating object that should reset after each connection and start rotating in all connected devices at same time, after X seconds.
+18:30 Basic logic implemented. Testing using public vars done.
+19:20 Added basic logic using NetManager methods, delegates to receive responses from server.
+19:40 Tried to do some minor real test before using multiple devices. 
+
+As starting a simple server that can keep all connections is out of test document, and no further instructions were given. I end test here.
+Around 3h time spent. Thanks for the time.
